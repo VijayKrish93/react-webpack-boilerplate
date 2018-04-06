@@ -1,0 +1,24 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate repo for starting React and Webpack backed up projects at ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VijayKrish93/react-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "Webpack",
+    "React",
+    "Boilerplate"
+  ],
+  "author": "VijayKrish93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VijayKrish93/react-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/VijayKrish93/react-webpack-boilerplate#readme"
+}
