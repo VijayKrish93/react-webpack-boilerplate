@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/VijayKrish93/react-webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/VijayKrish93/react-webpack-boilerplate#readme"
+  "homepage": "https://github.com/VijayKrish93/react-webpack-boilerplate#readme",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  }
 }
